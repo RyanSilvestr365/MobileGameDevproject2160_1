@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CEB361"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="-92dp">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="102dp"
+        android:layout_height="36dp"
+        android:background="#A024B6"
+        android:text="Weapon"
+        android:textColor="#29AF3A"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="285dp"
+        tools:layout_editor_absoluteY="560dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="102dp"
+        android:layout_height="36dp"
+        android:background="#A024B6"
+        android:text="Weapon"
+        android:textColor="#29AF3A"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="165dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="102dp"
+        android:layout_height="36dp"
+        android:background="#246BB6"
+        android:text="Timer"
+        android:textColor="#D51F1F"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="210dp"
+        android:layout_height="75dp"
+        android:background="#2EB624"
+        android:text="Enemy's hand"
+        android:textColor="#D51F1F"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="105dp"
+        android:layout_height="71dp"
+        android:background="#2EB624"
+        android:text="Card3"
+        android:textColor="#D51F1F"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="629dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="105dp"
+        android:layout_height="71dp"
+        android:background="#2EB624"
+        android:text="Card2"
+        android:textColor="#D51F1F"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="629dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="214dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Armor"
+        android:textColor="#9D9A9A"
+        android:textColorHighlight="#DCDCDC"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="201dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="159dp"
+        android:layout_height="191dp"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="408dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="157dp"
+        android:layout_height="151dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="50dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Souls"
+        android:textColor="#D70C0C"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="560dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Armor"
+        android:textColor="#9D9A9A"
+        android:textColorHighlight="#DCDCDC"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="381dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Minions"
+        android:textColor="#2060CE"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#4E0A0A"
+        android:text="EndTurn"
+        android:textColor="#D72C2C"
+        tools:layout_editor_absoluteX="285dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="105dp"
+        android:layout_height="71dp"
+        android:background="#2EB624"
+        android:text="Card1"
+        android:textColor="#D51F1F"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="629dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Souls"
+        android:textColor="#D70C0C"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="174dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
